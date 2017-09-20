@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# run script with sh mount.sh
+
 # bob #
 BOB_USER='<user>';
 BOB_PASSWORD='<password>';
